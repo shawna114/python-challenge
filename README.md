@@ -1,4 +1,4 @@
-Python Challenge 
+**Python Challenge**
 
 1. PyBank: Analysis derived from faux financial records from a file named budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. The objective was to create a Python script that analyzes the budget data and prints the results to both the terminal and to a .txt file located in a specified file path. Specific analytic requirements for this challenge are listed below:
 
