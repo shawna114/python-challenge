@@ -2,7 +2,7 @@ Python Challenge
 
 1. PyBank: Analysis derived from faux financial records from a file named budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. The objective was to create a Python script that analyzes the budget data and prints the results to both the terminal and to a .txt file located in a specified file path. Specific analytic requirements for this challenge are listed below:
 
-    ✦ The total number of months included in the dataset \n
+    ✦ The total number of months included in the dataset
     ✦ The net total amount of "Profit/Losses" over the entire period
     ✦ The changes in "Profit/Losses" over the entire period and then identify the average of those changes
     ✦ The greatest increase in profits (date and amount) over the entire period
